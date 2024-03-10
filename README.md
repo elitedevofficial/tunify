@@ -1,19 +1,3 @@
-<div align="center">
-
-    <p>
-
-    <a href="https://discord.com/invite/4u8xayHdTa"><img src="https://img.shields.io/discord/966350920172597288?color=5865F2&logo=discord&logoColor=white" alt="Discord server" /></a>
-
-    <a href="https://www.npmjs.com/package/erela-custom-filters"><img src="https://img.shields.io/npm/v/erela-custom-filters.svg?maxAge=3600" alt="NPM version" /></a>
-
-    <a href="https://www.npmjs.com/package/erela-custom-filters"><img src="https://img.shields.io/npm/dt/erela-custom-filters.svg?maxAge=3600" alt="NPM downloads" /></a>
-
-    </p>
-
-</div>
-
-
-
 ## Erela.JS Documentation
 
 
