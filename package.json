@@ -1,0 +1,21 @@
+{
+  "name": "tunify",
+  "version": "0.0.1",
+  "description": "Enhancing Erela.js: Integrating Native Lavalink Filters for Enhanced Audio Experience",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "keywords": [
+    "erela.js",
+    "erela",
+    "music-filter",
+    "erela filter",
+    "tunify"
+  ],
+  "repository": "https://github.com/OpenianDevelopment/tunify",
+  "author": "ELiTE DEVS",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "erela.js": "^2.3.3"
+  }
+}
