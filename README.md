@@ -1,3 +1,8 @@
+## Tunify
+<img src="https://cdn.discordapp.com/attachments/979052583559774228/1219342827553689670/Pink_Yellow_White_Gradient_Music_YouTube_Banner.png?ex=660af480&is=65f87f80&hm=a639e64d16dc02a018f920eff653c9afef2a3b2b97af17e0f730befe31610164&"/>
+
+Enhancing Erela.js: Integrating Native Lavalink Filters for Enhanced Audio Experience
+
 ## Erela.JS Documentation
 
 
